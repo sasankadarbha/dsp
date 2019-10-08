@@ -1,0 +1,4 @@
+AES folder contains python codes for AES encryption and decryption.
+It include both ECB Mode and CBC Mode.
+Average Running Time of encryption and decryption can also be deduced.
+Read report for more details.
